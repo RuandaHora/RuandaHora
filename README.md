@@ -16,6 +16,9 @@
 <div align="center">  
 <a href="https://www.instagram.com/ruanpablodahora/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
+ <div align="center">  
+<a href="https://www.linkedin.com/in/ruan-da-hora-959b0220a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor="</a>
+</div> 
  
 ### Main skills:
 ![Swift](https://img.shields.io/badge/-Swift-0D1117?style=for-the-badge&logo=Swift&labelColor=0D1117&textColor=0D1117)&nbsp;
