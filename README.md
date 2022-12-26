@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuandaHora&layout=compact&hide_border=true&title_color=0054bb&text_color=0054bb&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=RuandaHora&theme=gotham&hide_border=true&area=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RuandaHora&bg_color=0d1116&color=d4e3fe&line=0061ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RuandaHora&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
