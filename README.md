@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0054bb&height=100&section=header&tf&fontColor=ffffff&animation=twinkling&fontAlignY=30&"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=100&section=header&tf&fontColor=ffffff&animation=twinkling&fontAlignY=30&"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0054bb&size=39&center=true&vCenter=true&width=1000&lines=WELCOME+to+my+profile+:%29;My+name+is+Ruan+Pablo+da+Hora;I'm+18+years+old;I'm+from+Brazil,+SP;I+study+systems+development+at+Senai;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0072ff&size=39&center=true&vCenter=true&width=1000&lines=WELCOME+to+my+profile+:%29;My+name+is+Ruan+Pablo+da+Hora;I'm+18+years+old;I'm+from+Brazil,+SP;I+study+systems+development+at+Senai;)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RuandaHora&show_icons=true&count_private=true&hide_border=true&title_color=0054bb&icon_color=0054bb&text_color=c9d1d9&bg_color=0d1117" alt="Ruan da Hora github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuandaHora&layout=compact&hide_border=true&title_color=0054bb&text_color=0054bb&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RuandaHora&show_icons=true&count_private=true&hide_border=true&title_color=0072ff&icon_color=0072ff&text_color=c9d1d9&bg_color=0d1117" alt="Ruan da Hora github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuandaHora&layout=compact&hide_border=true&title_color=035ac5&text_color=0072ff&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RuandaHora&bg_color=0d1116&color=d4e3fe&line=0061ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -14,10 +14,9 @@
 </p>
 
 <div align="center">  
+<a href="https://www.linkedin.com/in/ruan-da-hora-959b0220a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-035ac5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://www.instagram.com/ruanpablodahora/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- <div align="center">  
-<a href="https://www.linkedin.com/in/ruan-da-hora-959b0220a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor="</a>
+<a href="https://web.facebook.com/ruan.dahora.54/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-0072ff?style=for-the-badge&logo=Facebook&logoColor=white"</a>
 </div> 
  
 ### Main skills:
@@ -52,4 +51,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RuandaHora}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0054bb&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=120&section=footer"/>
