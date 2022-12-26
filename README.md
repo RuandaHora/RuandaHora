@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0054bb&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0054bb&height=180&section=header&text=Ruan+da+Hora&fontSize=35&f&fontColor=b6b6b6&animation=twinkling&fontAlignY=35&"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0054bb&size=39&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ruan+Pablo+da+Hora;I'm+18+years+old;I+from+Brazil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0054bb&size=39&center=true&vCenter=true&width=1000&lines=WELCOME+to+my+profile+:%29;My+name+is+Ruan+Pablo+da+Hora;I'm+18+years+old;I'm+from+Brazil,+SP;I+study+systems+development+at+Senai;)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RuandaHora&show_icons=true&count_private=true&hide_border=true&title_color=0054bb&icon_color=0054bb&text_color=c9d1d9&bg_color=0d1117" alt="Ruan da Hora github stats" /> 
