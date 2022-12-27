@@ -22,8 +22,8 @@
 ### Main skills:
 ![Swift](https://img.shields.io/badge/-Swift-0D1117?style=for-the-badge&logo=Swift&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![UIKit](https://img.shields.io/badge/-UIKit-0D1117?style=for-the-badge&logo=UIKit&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MVVM](https://img.shields.io/badge/-MVVM-0D1117?style=for-the-badge&logo=ModelViewViewModel&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
  
 ### Tools:
@@ -38,14 +38,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-
+![REACT](https://img.shields.io/badge/-REACT-0D1117?style=for-the-badge&logo=REACT&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![Swift](https://img.shields.io/badge/-Swift-0D1117?style=for-the-badge&logo=Swift&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![UIKit](https://img.shields.io/badge/-UIKit-0D1117?style=for-the-badge&logo=UIKit&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MVVM](https://img.shields.io/badge/-MVVM-0D1117?style=for-the-badge&logo=ModelViewViewModel&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
 
 
 <div align="center">
